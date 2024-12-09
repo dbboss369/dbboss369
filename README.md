@@ -16,11 +16,5 @@ I am currently pursuing my B.Tech in Computer Science and Engineering. I have a 
 - [Project Name](Project Link): A brief description of a notable project you've worked on.
 - [Project Name](Project Link): Another brief description of a different project.
 
-## Contact
-
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **GitHub:** [Your GitHub Profile](https://github.com/your-profile)
-
 Feel free to connect with me!
 
